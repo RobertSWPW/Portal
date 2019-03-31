@@ -61,7 +61,5 @@ Wypunktowanie
 
 `![Tekst zastępczy](adres obrazka)`
 
-![SWPW](swpw.png)
-
-
+![SW](swpw.png)
 
