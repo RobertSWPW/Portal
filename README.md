@@ -1,4 +1,4 @@
 # Portal #
 Pliku portalu InfoInfo
 
-![SWPW][swpw.png]
+![SWPW](https://github.com/RobertSWPW/Portal/blob/master/swpw.jpg)
